@@ -1,4 +1,6 @@
-http://www.linkpicture.com/q/IMG-20220225-WA0158.jpg
+<a href="https://ibb.co/9rKT44W"><img src="https://i.ibb.co/9rKT44W/31-97010286850-20220225-171050.jpg" alt="31-97010286850-20220225-171050" border="0"></a>
+
+
 - 👋 Hi, I’m @dark-worf
 - 👀 I’m interested in ...making bots
 - 🌱 I’m currently learning ...
