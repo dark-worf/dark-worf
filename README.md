@@ -2,10 +2,10 @@
 
 
 - 👋 Hi, I’m @dark-worf
-- 👀 I’m interested in ...making bots
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://wa.me/265886620667
+- 👀 I’m interested in ...technology
+- 🌱 I’m currently learning ...HOW TO MAKE WHATSAPP BOT
+- 💞️ I’m looking to collaborate on ...anything about tech. 
+- 📫 How to reach me ...https://wa.me/265994894966
 
 <!---
 dark-worf/dark-worf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
