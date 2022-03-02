@@ -1,3 +1,4 @@
+http://www.linkpicture.com/q/IMG-20220225-WA0158.jpg
 - 👋 Hi, I’m @dark-worf
 - 👀 I’m interested in ...making bots
 - 🌱 I’m currently learning ...
