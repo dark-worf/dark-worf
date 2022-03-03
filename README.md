@@ -5,7 +5,7 @@
 - 👀 I’m interested in ...technology
 - 🌱 I’m currently learning ...HOW TO MAKE WHATSAPP BOT
 - 💞️ I’m looking to collaborate on ...anything about tech. 
-- 📫 How to reach me ...https://wa.me/265994894966
+- 📫 How to reach me ... [![WhatsApp carter](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265994894966) 
 
 <!---
 dark-worf/dark-worf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
